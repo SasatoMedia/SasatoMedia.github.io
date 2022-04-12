@@ -1,0 +1,33 @@
+body,
+html{
+	font-family:"montserrat";
+	background: url(freelancing1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+	font-size: 3rem;
+	color: #e53d00;
+}
+.btn{
+	font-weight: 700px;
+	border-radius: 500px;
+	text-transform: uppercase;
+}	
+.btn-lg{
+	padding: 1rem 2rem;
+}
+.btn-dark{
+	background-color:#e53d00;
+	border-color: #e53d00;
+}
+.btn-dark:hover{
+	background-color: #00CFC1;
+	border-color: "white";
+	border-width: 4px;
+}
+.buffer{
+	height: 28rem;
+}
